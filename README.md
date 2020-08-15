@@ -7,9 +7,8 @@ Notes for Windows Subsystem Linux and using different Linux distros.
 - [Sources](#sources)
 
 
-### Accessing Windows Files:
+### Accessing Windows Files from the Linux Terminal:
 ---
-How to access Windows Drives and files?
 
 list all drives:
 
