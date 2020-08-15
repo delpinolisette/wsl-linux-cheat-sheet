@@ -1,13 +1,14 @@
-# wsl-linux-cheat-sheet
+### Working with the Windows Subsystem Linux: A Cheat Sheet
 Notes for Windows Subsystem Linux and using different Linux distros.
 
 ### Table of Contents:
+---
 - [Accessing Windows Files](#accessing-windows-files)
 - [Sources](#sources)
 
-### Working with the Windows Subsystem Linux: A Cheat Sheet
 
 ### Accessing Windows Files:
+---
 How to access Windows Drives and files?
 
 `ls -al /mnt        # list all drives `
@@ -21,10 +22,12 @@ How to access Windows Drives and files?
 * reccomended: keep a copy of your files in the Linux system for
 
 ### HTTP Request Magic:
+---
 - under construction.
 
 
 ### Sources:
+---
 1. https://blogs.windows.com/windowsdeveloper/2016/07/22/fun-with-the-windows-subsystem-for-linux/
 2. https://docs.microsoft.com/en-us/windows/wsl/install-win10
 3.
