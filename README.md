@@ -9,6 +9,7 @@ Notes for Windows Subsystem Linux and using different Linux distros.
 
 ### Accessing Windows Files:
 How to access Windows Drives and files?
+
 `ls -al /mnt        # list all drives `
 
 `cd /mnt/c/myfile.txt        # navigate to file in C drive`
