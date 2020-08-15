@@ -11,15 +11,23 @@ Notes for Windows Subsystem Linux and using different Linux distros.
 ---
 How to access Windows Drives and files?
 
-`ls -al /mnt        # list all drives `
+list all drives:
 
-`cd /mnt/c/myfile.txt        # navigate to file in C drive`
+`ls -al /mnt  `
 
-`cat /mnt/c/myfile.txt        # open a file in C drive`
+navigate to file in C drive:
 
-`cd /mnt/c/Users/ cd "name of user"        # navigate to a specific user and their files`
+`cd /mnt/c/myfile.txt       `
 
-* reccomended: keep a copy of your files in the Linux system for
+open a file in C drive:
+
+`cat /mnt/c/myfile.txt       `
+
+navigate to a specific user and their files:
+
+`cd /mnt/c/Users/cd "name_of_user"`
+
+* reccomended: keep a copy of your files in the Linux system for faster access. I usually accept the slugishness when I have my repo in my Documents.
 
 ### HTTP Request Magic:
 ---
