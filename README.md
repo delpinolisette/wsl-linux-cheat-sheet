@@ -32,9 +32,17 @@ navigate to a specific user and their files:
 ---
 - under construction.
 
+### Upgrading to WSL2:
+
+1. enable the Virtual Machine Platform on Powershell (Admin) with :
+`dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart` and restart the computer.
+2. Open Powershell (Admin) and `wsl --set-default-version 2`
+3. If ` WSL 2 requires an update to its kernel component. For information please visit https://aka.ms/wsl2kernel` then visit the link and install the appropriate MSI. Them, run `wsl --set-default-version 2` again.
+
+* [WSL Doc on Upgrading](https://docs.microsoft.com/en-us/windows/wsl/install-win10#update-to-wsl-2)
 
 ### Sources:
 ---
 1. https://blogs.windows.com/windowsdeveloper/2016/07/22/fun-with-the-windows-subsystem-for-linux/
 2. https://docs.microsoft.com/en-us/windows/wsl/install-win10
-3.
+3. https://gto76.github.io/linux-cheatsheet/
