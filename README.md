@@ -46,3 +46,19 @@ navigate to a specific user and their files:
 1. https://blogs.windows.com/windowsdeveloper/2016/07/22/fun-with-the-windows-subsystem-for-linux/
 2. https://docs.microsoft.com/en-us/windows/wsl/install-win10
 3. https://gto76.github.io/linux-cheatsheet/
+
+### Misc:
+An ode to WSL and its help boosting my productive output:
+``` html
+
+you make me
+a better web developer,
+an innovation that I got for free
+
+A dual boot was the answer
+before, windows files
+available only to a necromancer.
+
+now I hold several distros
+I'm at the Linux disco
+```
